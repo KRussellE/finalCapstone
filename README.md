@@ -26,15 +26,11 @@
   </ol>
 </details>
 
-CONTENTS
-1. Project name
-2. Description
-3. Installation
-4. Instructions
-5. Credits
 
 ==========================================================================================================
-1. Project name: Database Manipulation
+<!-- PROJECTNAME -->
+## Project name
+Database Manipulation
 
 2. Description:
     The database_manip.py contains the following new rows:
