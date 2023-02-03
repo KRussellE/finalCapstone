@@ -5,7 +5,7 @@
 ## Project name
 Database Manipulation
 
-<!-- PROJECTNAME -->
+<!-- Description -->
 ## Description
 
     The database_manip.py contains the following new rows:
@@ -21,7 +21,9 @@ Database Manipulation
         - Finally changes the grade of all people with an id below 55.
         The program will create (if it does not already exist) the programming.db file
 
-3. Installation:
+<!-- Installation -->
+## Installation
+
   - Copy the files to your local machine to a folder of your choice.
 
 4. Instructions:
