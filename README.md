@@ -1,8 +1,17 @@
 # finalCapstone
-○ Project name: Database Manipulation
 
-○ Description:
-The database_manip.py contains the following new rows from the python_programming table:
+CONTENTS
+1. Project name
+2. Description
+3. Installation
+4. Instructions
+5. Credits
+
+
+1. Project name: Database Manipulation
+
+2. Description:
+The database_manip.py contains the following new rows:
 id    name              grade
 55 Carl Davis             61
 66 Dennis Fredrickson     88
@@ -10,10 +19,17 @@ id    name              grade
 12 Peyton Sawyer          45
 2 Lucas Brooke            99
     - The program select all records with a grade between 60 and 80.
-    - Then the program change Carl Davis’s grade to 65.
-    - And delete Dennis Fredrickson’s row.
-    - Finally change the grade of all people with an id below than 55.
+    - Then the program changes Carl Davis’s grade to 65.
+    - Then deletes Dennis Fredrickson’s row.
+    - Finally changes the grade of all people with an id below 55.
+    The program will create (if it does not already exist) the programming.db file
 
-○ Installation:
-  - Run the database_manip.py file
-  - The program will create (if it had not exist earlier) the programming.db file
+3. Installation:
+  - Copy the files to your local machine to a folder of your choice.
+  -
+
+4. Instructions:
+The user run the database.py file and the file will itself create the python_programming table. The user can not change/influence the input or output datas because the program wont ask him. The program itself will create the input datas (the table what you see above) and make the changes what under the table. The user only will see the ouput (the final table after change).
+
+5. Credits: 
+All work by Krisztina Russell-Elzer
