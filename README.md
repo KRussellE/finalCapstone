@@ -33,5 +33,7 @@ Copy the files to your local machine to a folder of your choice.
 
 The user run the database.py file and the file will itself create the python_programming table. The user can not change/influence the input or output datas because the program wont ask him. The program itself will create the input datas (the table what you see above) and make the changes what under the table. The user only will see the ouput (the final table after change).
 
-5. Credits: 
-    All work by Krisztina Russell-Elzer
+<!-- Credits -->
+## Credits
+
+All work by Krisztina Russell-Elzer
