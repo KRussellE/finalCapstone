@@ -32,7 +32,9 @@
 ## Project name
 Database Manipulation
 
-2. Description:
+<!-- PROJECTNAME -->
+## Description
+
     The database_manip.py contains the following new rows:
     id    name              grade
     55 Carl Davis             61
