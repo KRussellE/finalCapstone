@@ -17,11 +17,11 @@ The database_manip.py contains the following new rows:
     12 Peyton Sawyer          45
     2 Lucas Brooke            99
     
-        - The program select all records with a grade between 60 and 80.
-        - Then the program changes Carl Davis’s grade to 65.
-        - Then deletes Dennis Fredrickson’s row.
-        - Finally changes the grade of all people with an id below 55.
-        The program will create (if it does not already exist) the programming.db file
+    - The program select all records with a grade between 60 and 80.
+    - Then the program changes Carl Davis’s grade to 65.
+    - Then deletes Dennis Fredrickson’s row.
+    - Finally changes the grade of all people with an id below 55.
+    The program will create (if it does not already exist) the programming.db file
 
 <!-- Installation -->
 ## Installation
