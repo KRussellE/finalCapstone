@@ -12,11 +12,11 @@ The database_manip.py contains the following new rows:
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/82880530/216691466-94f1dfc3-6d48-4f16-8600-6465562192ab.png" {width=40px height=400px}/>
 </div>
-   
-  ¤ The program select all records with a grade between 60 and 80.
-  ¤ Then the program changes Carl Davis’s grade to 65.
-  ¤ Then deletes Dennis Fredrickson’s row.
-  ¤ Finally changes the grade of all people with an id below 55.
+
+    ¤ The program select all records with a grade between 60 and 80.
+    ¤ Then the program changes Carl Davis’s grade to 65.
+    ¤ Then deletes Dennis Fredrickson’s row.
+    ¤ Finally changes the grade of all people with an id below 55.
  The program will create (if it does not already exist) the programming.db file
 
 <!-- Installation -->
