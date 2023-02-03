@@ -9,7 +9,10 @@ Database Manipulation
 ## Description
 
 The database_manip.py contains the following new rows:
-
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/82880530/216691466-94f1dfc3-6d48-4f16-8600-6465562192ab.png" {width=40px height=400px}/>
+</div>
+![image]()
         id    name              grade
         55 Carl Davis             61
         66 Dennis Fredrickson     88
