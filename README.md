@@ -10,12 +10,12 @@ Database Manipulation
 
 The database_manip.py contains the following new rows:
 
-    id    name              grade
-    55 Carl Davis             61
-    66 Dennis Fredrickson     88
-    77 Jane Richards          78
-    12 Peyton Sawyer          45
-    2 Lucas Brooke            99
+        id    name              grade
+        55 Carl Davis             61
+        66 Dennis Fredrickson     88
+        77 Jane Richards          78
+        12 Peyton Sawyer          45
+        2 Lucas Brooke            99
     
     - The program select all records with a grade between 60 and 80.
     - Then the program changes Carl Davis’s grade to 65.
